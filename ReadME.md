@@ -23,10 +23,6 @@ pip install tkmacosx
 
 - Refer to the `app_images` folder for visuals.
 
-## License
-
-MIT License
-
 ## Visuals
 <table>
 <tr>
@@ -38,6 +34,10 @@ MIT License
     <td><img src="app_images/4.png" alt="App Screenshot" width="700"></td>
 </tr>
 </table>
+
+## License
+
+MIT License
 
 
 ## Author
